@@ -6,7 +6,7 @@ import openai
 
 
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 app = Flask(__name__)
 app.config["MONGO_URI"] = "mongodb://localhost:27017/chatgpt"
